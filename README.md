@@ -27,7 +27,7 @@ SOC / Security Analyst Internships • Threat Detection • SIEM (Splunk)
 - Security-first design + validation testing
 
 ➡️ Repo: [View on GitHub](https://github.com/jbimard/enterprise-office-network-simulation)
----
+**---
 
 ## Skills
 **Security:** Threat Intelligence, SIEM (Splunk), Log Analysis, Detection Engineering, MITRE ATT&CK, Network Security, Incident Investigation  
