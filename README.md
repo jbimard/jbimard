@@ -20,14 +20,13 @@ SOC / Security Analyst Internships • Threat Detection • SIEM (Splunk)
 - Dashboards + detections mapped to MITRE ATT&CK
 - SPL detection rules and correlation searches
 
-➡️ Repo: [View on GitHub](https://github.com/jbimard/cowrie-honeypot-splunk-analysis](https://github.com/jbimard/cowrie-honeypot-splunk-analysis)
+➡️ Repo: [View on GitHub](https://github.com/jbimard/cowrie-honeypot-splunk-analysis)
 
 ### 🏢 Enterprise Network Security Infrastructure (Cisco Packet Tracer)
 - Multi-site enterprise simulation (VLANs, ACLs, routing, segmentation)
 - Security-first design + validation testing
 
-➡️ Repo: [View on GitHub](https://github.com/jbimard/cowrie-honeypot-splunk-analysis](https://github.com/jbimard/cowrie-honeypot-splunk-analysis)
-
+➡️ Repo: [View on GitHub](https://github.com/jbimard/enterprise-office-network-simulation)
 ---
 
 ## Skills
