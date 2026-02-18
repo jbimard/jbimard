@@ -15,14 +15,14 @@ SOC / Security Analyst Internships • Threat Detection • SIEM (Splunk)
 ---
 
 ## Featured Projects
-### 🔐 Cowrie Honeypot + Splunk SIEM Threat Intelligence
+### Cowrie Honeypot + Splunk SIEM Threat Intelligence
 - 475+ security events analyzed • 44 attack sessions
 - Dashboards + detections mapped to MITRE ATT&CK
 - SPL detection rules and correlation searches
 
 ➡️ Repo: [View on GitHub](https://github.com/jbimard/cowrie-honeypot-splunk-analysis)
 
-### 🏢 Enterprise Network Security Infrastructure (Cisco Packet Tracer)
+### Enterprise Network Security Infrastructure (Cisco Packet Tracer)
 - Multi-site enterprise simulation (VLANs, ACLs, routing, segmentation)
 - Security-first design + validation testing
 
