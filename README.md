@@ -35,10 +35,3 @@ SOC / Security Analyst Internships • Threat Detection • SIEM (Splunk)
 **Dev:** Java, Python, JavaScript, HTML/CSS, React, Secure Coding
 
 ---
-
-## Experience
-**Web Development Teaching Assistant (UNC Charlotte)** — Dec 2024–Present  
-**IoT Security Research Assistant (UNC Charlotte)** — Sep 2024–Dec 2024  
-**Software Development Intern (Linxy)** — May 2024–Aug 2024
-
----
