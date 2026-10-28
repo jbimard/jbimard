@@ -16,6 +16,10 @@
 
 ## Featured Projects
 
+**[Conoce Tu Profesor](https://www.conocetuprofesor.com)**
+- Developed a university professor review platform covering **237+ universities across 17 countries**
+- Built with **React, Node.js, Express, and Supabase**, implementing authentication and row-level security
+
 **[Cowrie Honeypot + Splunk SIEM](https://github.com/jbimard/cowrie-honeypot-splunk-analysis)**
 - Analyzed 475+ security events across 44 attack sessions
 - Built 3 dashboards and 15+ SPL detections mapped to MITRE ATT&CK
@@ -29,4 +33,4 @@
 
 **Tools:** Microsoft Entra ID, Azure, Wireshark, Nmap, Burp Suite, Linux
 
-**Development:** Python, C#, Java, SQL, JavaScript, React, ASP.NET Core
+**Development:** Python, C#, Java, SQL, JavaScript, React, Node.js, ASP.NET Core, Supabase
